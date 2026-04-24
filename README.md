@@ -7,7 +7,8 @@
 ---
 
 ## 🚀 Proyectos destacados
-- 📊 [Challenge Alura Store](https://github.com/ecordovag/challenge_alura_store.git): Análisis de ventas con python.
+- 📊 [Análisis de rendimiento comercial](https://github.com/ecordovag/Analisis-rendimiento-comercial.git): Análisis realizado con python para determinar cuál de las tiendas de una cadena es la que tuvo menor rendimiento comercial.
+- 🏃 [Análisis de evasión de clientes](https://github.com/ecordovag/Analisis-evasion-clientes.git): Análisis realizado con python para identificar los principales factores asociados a la evasión de clientes de una empresa de telecomunicaciones.
 - 🎭 [HackathonG8Equipo25](https://github.com/ecordovag/HackathonG8Equipo25.git): Hackaton enmarcado en el programa Oracle Next Education. Contribuí en la generación de un modelo de análisis de sentimientos para detectar las emociones relacionadas a comentarios de productos.
 - 📃 [SQL exercises](https://github.com/ecordovag/SQL_exercises.git): Ejercicios resueltos de SQL desde nivel básico hasta nivel avanzado.
 
