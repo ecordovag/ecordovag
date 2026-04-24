@@ -2,7 +2,6 @@
 
 🔹 **Bióloga** con interés en **Ciencia de Datos** y **Análisis Estadístico**  
 🔹 Me apasiona transformar datos en información útil para la toma de decisiones.  
-🔹 Actualmente soy parte del programa ONE, de Oracle y Alura LATAM.  
 🔹 Aprendiendo **Python**, **SQL** y **Power BI**.
 
 ---
